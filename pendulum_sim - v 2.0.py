@@ -2,9 +2,9 @@
 N-Pendulum Simulator
 Single to 7 pendulums — length, grid, color, continuous motion trails.
 Features: configurable initial angle (-180°~180°), dynamic auto-zoom view.
-Author: [CesiumAuride526]
+Author: CesiumAuride526
 License: MIT (see LICENSE file in repository)
-Copyright (c) 2026 [CesiumAuride526]
+Copyright (c) 2026 CesiumAuride526
 Depends on: numpy, matplotlib
 """
 
