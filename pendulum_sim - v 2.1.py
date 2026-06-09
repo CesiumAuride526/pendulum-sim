@@ -1,8 +1,12 @@
 """
-N-Pendulum Simulator
-Single to 7 pendulums — length, grid, color, continuous motion trails.
-Features: configurable initial angle (-180°~180°), dynamic auto-zoom view.
-Depends on: numpy, matplotlib
+N-Pendulum Simulator v2.1
+Single to 7 pendulums — length, mass, color, continuous motion trails.
+Features: configurable initial angle (-180°~180°), dynamic auto-zoom view,
+          adjustable gravity, damping, and per-bob mass.
+Author:   CesiumAuride526
+License:  MIT (see LICENSE file in repository)
+Copyright (c) 2026 CesiumAuride526
+Depends:  numpy, matplotlib
 """
 
 
