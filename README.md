@@ -48,6 +48,7 @@ Control panel sections:
   PENDULUM group:
     Count        - number of pendulums (1-7)
     L1..L7       - length of each pendulum (1-15)
+    C1..C7       - color of each pendulum (RGB)
 
   PHYSICS group:
     Gravity (g)  - gravitational acceleration (0.5-30)
@@ -80,8 +81,13 @@ mechanics and integrated using 4th order Runge-Kutta (RK4).
 Trails are rendered as swept quadrilaterals between consecutive frames; only
 vertex data is updated each frame (no per-frame object creation) for high
 performance.
+n-pendulum-simulator  v2.1
+================================================================================
 
+Interactive N-pendulum simulator with real-time physics, motion trails, and
+configurable UI. Built with Python, NumPy, Matplotlib.
 
-License
---------------------------------------------------------------------------------
-This project is licensed under the MIT License. See the LICENSE file.
+**New in v2.1** (compared to v2.0):
+- Added individual mass control for each pendulum bob (0.1 - 10.0)
+- Added linear damping coefficient (0.0 - 5.0) for energy dissipation
+- Improved physical accuracy with mass-dependent inertia
