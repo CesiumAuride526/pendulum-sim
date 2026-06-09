@@ -81,7 +81,6 @@ mechanics and integrated using 4th order Runge-Kutta (RK4).
 Trails are rendered as swept quadrilaterals between consecutive frames; only
 vertex data is updated each frame (no per-frame object creation) for high
 performance.
-n-pendulum-simulator  v2.1
 ================================================================================
 
 Interactive N-pendulum simulator with real-time physics, motion trails, and
