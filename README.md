@@ -81,10 +81,9 @@ mechanics and integrated using 4th order Runge-Kutta (RK4).
 Trails are rendered as swept quadrilaterals between consecutive frames; only
 vertex data is updated each frame (no per-frame object creation) for high
 performance.
-================================================================================
 
-Interactive N-pendulum simulator with real-time physics, motion trails, and
-configurable UI. Built with Python, NumPy, Matplotlib.
+--------------------------------------------------------------------------------
+
 
 **New in v2.1** (compared to v2.0):
 - Added individual mass control for each pendulum bob (0.1 - 10.0)
