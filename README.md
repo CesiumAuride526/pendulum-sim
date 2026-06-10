@@ -1,4 +1,7 @@
 # pendulum-sim
+<img width="2559" height="1471" alt="pic" src="https://github.com/user-attachments/assets/a2ec1d0e-5776-416f-99e7-9d9de2d68b45" />
+
+
 Interactive N-pendulum simulator with real-time physics, motion trails, and
 configurable UI. Built with Python, NumPy, Matplotlib.
 
