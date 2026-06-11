@@ -7,7 +7,7 @@ configurable UI. Built with Python, NumPy, Matplotlib.
 
 License: MIT
 
-Author: [CesiumAuride526]
+Author: CesiumAuride526
 
 
 Features
