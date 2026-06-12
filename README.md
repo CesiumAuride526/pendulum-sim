@@ -92,10 +92,7 @@ performance.
 - Added individual mass control for each pendulum bob (0.1 - 10.0)
 - Added linear damping coefficient (0.0 - 5.0) for energy dissipation
 - Improved physical accuracy with mass-dependent inertia
-- # N-Pendulum Simulator — Optimization & Bugfix Changelog
 
-A matplotlib-based multi-pendulum physics simulator with real-time animation,
-configurable parameters, and continuous motion trails.
 
 ---
 
